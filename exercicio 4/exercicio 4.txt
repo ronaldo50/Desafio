@@ -1,0 +1,9 @@
+Carro (indo para franca) velocidade 110 km/h constante
+caminhão (indo para ribeirão)velocidade 80 km/h constante
+
+100 km de distância de Ribeirão Preto e franca
+2 pedágio a mais para cada um deles
+
+O Carro vai está mais longe de Ribeirão pois ele vai à velocidade 110 km/h e  demora menos no pedágio que o caminhão.
+ 
+O Caminhão estará mais próximo de Ribeirão.
